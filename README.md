@@ -1,4 +1,4 @@
-# Linear_Programming
+# Linear Optimization
 Dual Simplex Algorithm &amp; Gomory Cuts
 
 _Code ensures Bland's Rule for variables entering basis._
